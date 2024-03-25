@@ -1,0 +1,6 @@
+npm install --save-exact @reduxjs/toolkit@2.0.1 react-redux@9.0.4 
+npm install --save-exact react-router-dom@6.21.1
+npm install --save-exact axios@1.6.3
+npm install --save-exact react-bootstrap@2.9.2 sweetalert2@11.10.2
+npm install --save-exact dotenv@16.3.1
+npm install --save-exact sass@1.69.6
